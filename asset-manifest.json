@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/EcommReact/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/EcommReact/static/js/main.3f3e3043.chunk.js",
+    "main.js.map": "/EcommReact/static/js/main.3f3e3043.chunk.js.map",
+    "runtime-main.js": "/EcommReact/static/js/runtime-main.5a20c89d.js",
+    "runtime-main.js.map": "/EcommReact/static/js/runtime-main.5a20c89d.js.map",
+    "static/js/2.07b56791.chunk.js": "/EcommReact/static/js/2.07b56791.chunk.js",
+    "static/js/2.07b56791.chunk.js.map": "/EcommReact/static/js/2.07b56791.chunk.js.map",
+    "index.html": "/EcommReact/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/EcommReact/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.07b56791.chunk.js.LICENSE.txt": "/EcommReact/static/js/2.07b56791.chunk.js.LICENSE.txt",
+    "static/media/back1.55801741.jpeg": "/EcommReact/static/media/back1.55801741.jpeg",
+    "static/media/feature.ba1df8fe.jpeg": "/EcommReact/static/media/feature.ba1df8fe.jpeg",
+    "static/media/product1.d9bbcef6.jpeg": "/EcommReact/static/media/product1.d9bbcef6.jpeg",
+    "static/media/product2.23990291.jpeg": "/EcommReact/static/media/product2.23990291.jpeg",
+    "static/media/product3.283d587b.png": "/EcommReact/static/media/product3.283d587b.png",
+    "static/media/product4.c2cedac6.jpeg": "/EcommReact/static/media/product4.c2cedac6.jpeg",
+    "static/media/product5.eead167e.jpeg": "/EcommReact/static/media/product5.eead167e.jpeg",
+    "static/media/product6.80062700.jpeg": "/EcommReact/static/media/product6.80062700.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a20c89d.js",
+    "static/js/2.07b56791.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3f3e3043.chunk.js"
+  ]
+}
