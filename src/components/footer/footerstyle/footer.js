@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 export const Container=styled.div`
 padding: 80px 60px;
-background:#1a3804;
+background:#3b522a;
 position:relative;
 
 @media(max-width:800px){
