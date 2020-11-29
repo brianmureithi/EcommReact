@@ -23,7 +23,7 @@ height:100vh;
 max-height:100%;
 padding:0 2rem;
 color:#fff;
-text-transformation:uppercase;
+text-transform:uppercase;
 line-height:1;
 font-weight:bold;
 
