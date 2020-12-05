@@ -7,7 +7,7 @@ position:fixed;
 z-index:999;
 width:350px;
 height:100%;
-background:#088339;
+background:#048999;
 display:grid;
 align-items:center;
 top:0;
@@ -19,7 +19,7 @@ right: ${({isOpen})=>(isOpen ? '0': '-1000px' )};
 }
 `;
 export const CloseIcon=styled(FaIcons.FaTimes)`
-color:#000;
+color:#fff;
 
 `
 export const Icon= styled.div`
@@ -27,7 +27,7 @@ position:absolute;
 top:1.2rem;
 right:1.5rem;
 background:transparent;
-border-transparent;
+border:transparent;
 font-size:2rem;
 cursor:pointer;
 outline:none;
@@ -53,7 +53,7 @@ text-decoration:none;
 color:#000;
 cursor:pointer;
 &:hover{
-    color:#e31837;
+    color:#173c18;
     transition:0.2s ease-in-out;
 }
 `;
@@ -65,7 +65,7 @@ justify-content:center;
 `
 
 export const SidebarRoute = styled(Link)`
-background:#e31837;
+background:#173c18;
 white-space:nowrap;
 padding:16px 64px;
 color:#fff;
@@ -77,8 +77,8 @@ transition:0.2s ease-in-out;
 text-decoration:none;
 &:hover{
     transition:0.2s ease-in-out;
-    background:#6ba53a;
-    color:#0.010606;
+    background:#061907;
+    color:#fff;
 }
 
 `
