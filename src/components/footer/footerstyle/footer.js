@@ -18,7 +18,7 @@ display:flex;
 flex-direction:column;
 justify-content:center;
 max-width:1000px;
-margin:# auto;
+margin:0 auto;
 `
 export const Column=styled.div`
 display:flex;
