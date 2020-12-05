@@ -25,7 +25,7 @@ max-width:100%;
 box-shadow:8px 8px #fdc500;
 `
 export const ProductHeading = styled.h1`
-font-size: clamp(2rem, 2.5vw, 3rem)
+font-size: clamp(2rem, 2.5vw, 3rem);
 text-align:center;
 margin-bottom:5rem;
 `
@@ -57,13 +57,13 @@ export const ProductButton = styled.button`
 font-size:1rem;
 padding: 1rem 4rem;
 border:none;
-background:#6ba53a;
+background:#1b5633;
 color:#fff;
-transition; 0.2s ease-out;
+transition:0.2s ease-out;
 
 &:hover{
-    background:#99ca94;
-    transition; 0.2s ease-out;
+    background:#358537;
+    transition: 0.2s ease-out;
     cursor:pointer;
     color:#000;
 }
