@@ -11,7 +11,7 @@ export const productData=[
         alt:'One Pager website',
         name:'Single page site',
         desc:'Get a one pager website',
-        price:'sh 17,999',
+        price:'sh 18,999',
         button:'Request service'
 
     },
@@ -20,7 +20,7 @@ export const productData=[
         alt:'Dynamic website',
         name:'Multiple paged site',
         desc:'Get a multiple paged static site ',
-        price:'sh 23,999',
+        price:'sh 31,999',
         button:'Request service'
 
     },
@@ -29,7 +29,7 @@ export const productData=[
         alt:'A web application',
         name:'A Web Application',
         desc:'Dynamic Web App with Database',
-        price:'sh 33,000',
+        price:'sh 39,999',
         button:'Request service'
 
     },
@@ -42,7 +42,7 @@ export const productDataTwo=[
         alt:'Business Cards',
         name:'Business Cards',
         desc:'Get professional Business Cards for your Business.Design and printing 10 copies inclusive',
-        price:'sh 600',
+        price:'sh 700',
         button:'Request Graphic'
 
     },
@@ -51,7 +51,7 @@ export const productDataTwo=[
         alt:'Poster',
         name:'A Poster',
         desc:'Get a poster for whatever you\'ld like. Design and 2 hardcopies in A3 inclusive',
-        price:'sh 1,500',
+        price:'sh 1,899',
         button:'Request Graphic'
 
     },
@@ -60,7 +60,7 @@ export const productDataTwo=[
         alt:'Flyers',
         name:'Flyers',
         desc:'Get a flyer for advertisements or events. Design and 2 hardcopies in A3 ',
-        price:'sh 1,500',
+        price:'sh 1,899',
         button:'Request Graphic'
 
     },

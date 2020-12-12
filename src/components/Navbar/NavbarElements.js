@@ -42,5 +42,5 @@ p{
 export const Bars= styled(FaIcons.FaBars)`
 font-size:1.5rem;
 transform:translate(-50%,-15%);
-margin bottom:15px;
+margin-bottom:15px;
 `
